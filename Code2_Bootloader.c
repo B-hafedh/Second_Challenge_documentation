@@ -1,4 +1,4 @@
-/* This code is the implementation of a custom bootloader for STM32 microcontroller taht allows
+/* This code is the implementation of a custom bootloader for STM32 microcontroller that allows
    to do some tasks as uploading new firmware and upgrade image in user applications using USART protocol.*/
 
 
